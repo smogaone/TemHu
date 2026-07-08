@@ -230,4 +230,4 @@ Wrong temperature readings	Adjust offset under "Calibration" in web interface
 Static IP not working	Restart after entering IP; leave gateway empty = auto
 OTA update fails	Repeat factory flash via USB
 Display stays black	Disconnect power, wait 10 s, reconnect
-Graph shows only one point	Normal — builds every 15 min, full after 24 h
+Graph shows only one point	Normal — builds every 15 min, full after 24 h 
