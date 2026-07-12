@@ -114,7 +114,7 @@ Connect via Dupont **Male–Female** cables (male to board, female to SHT31):
 ### Firmware File
 
 > [!NOTE]
-> **This is the initial release — v2.0.0.** The firmware file is provided in this repository under [`/firmware`](firmware/).
+> **This is the initial release — v2.0.0.** The firmware file is provided in this repository under [`https://github.com/smogaone/TemHu/releases').
 
 | File | Purpose |
 |:---|:---|
