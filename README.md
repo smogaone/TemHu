@@ -17,7 +17,7 @@ Most sensor displays show you numbers. Tem(H)u tells you something.
 
 The idea was simple: a glance should be enough. Not a glance at digits you then have to interpret — but a glance that already carries the answer. Is the air comfortable right now? Or does something feel off?
 
-At the heart of the display are two counter-rotating arcs — one for temperature, one for humidity. They move in opposite directions, creating a calm, balanced composition. Their color shifts gradually through **WHO and ASHRAE Standard 55** health thresholds: a cool blue when values are outside the comfort zone (too cold / too dry), drifting through mint-green in the ideal range, into warm amber and coral as conditions become uncomfortable.
+At the heart of the display are two counter-rotating arcs. They move in opposite directions, creating a calm, balanced composition. Their color shifts gradually through **WHO and ASHRAE Standard 55** health thresholds: a cool blue when values are outside the comfort zone (too cold / too dry), drifting through mint-green in the ideal range, into warm amber and coral as conditions become uncomfortable.
 
 No alerts. No flashing. Just a quiet, honest signal — designed to be read at a glance, from across the room, without demanding your attention.
 
