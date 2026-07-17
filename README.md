@@ -65,7 +65,7 @@ No alerts. No flashing. Just a quiet, honest signal — designed to be read at a
 
 ### Display
 
-| Model | Waveshare | Amazon | Makerworld The case for 3D print|
+| Model | Waveshare | Amazon | Makerworld housing for 3D print|
 |:---|:---|:---|:---|
 | **Tem(H)u Macro** — Waveshare ESP32-S3 Touch AMOLED 1.75″ | [waveshare.com ↗](https://www.waveshare.com/product/arduino/displays/amoled/esp32-s3-touch-amoled-1.75.htm) | [amazon.de ↗](https://amzn.eu/d/02WxzvqB) | [makerworld.com/de↗](https://makerworld.com/de/models/3049303-tem-h-u-macro-waveshare-esp32-s3-touch-amoled-1-75#profileId-3430173) |
 
